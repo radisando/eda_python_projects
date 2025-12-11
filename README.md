@@ -8,11 +8,21 @@ This repository serves as a personal playground to practice data cleaning, featu
 
 This repo currently includes three standalone EDA projects:
 
-**1. Titanic Survival Analysis** - Explores the famous Titanic dataset to uncover survival patterns by age, gender, class, and other key features.
+**1. Titanic Survival Analysis**:
 
-**2. Stock Market Analysis** - *In progress...* (Analyzes historical stock price data, exploring price trends, and key indicators over time.)
+Explores the famous Titanic dataset to uncover survival patterns by age, gender, class, and other key features.
 
-**3. Elections Analysis** - *In progress...* (Examines election-related datasets to understand voting patterns, and demographic insights.)
+**2. Stock Market Analysis**:
+
+*In progress...* 
+
+(It will analyze historical stock price data, exploring price trends, and key indicators over time.)
+
+**3. Elections Analysis**:
+
+*In progress...* 
+
+(I will examine election-related datasets to understand voting patterns, and demographic insights.)
 
 
 ### 🎯 Purpose
